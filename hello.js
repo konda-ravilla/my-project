@@ -7,4 +7,8 @@ let obj = {
   duplicate: function () {
     console.log('duplicate');
   },
+
+  run: function () {
+    console.log('run');
+  },
 };
