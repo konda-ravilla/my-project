@@ -12,3 +12,7 @@ let obj = {
     console.log('run');
   },
 };
+
+let num = 100;
+
+let name = 'prasad';
