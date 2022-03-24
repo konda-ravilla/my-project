@@ -2,7 +2,11 @@ let obj = {
   name: 'latha',
   age: 24,
 
+  height: 6,
+
+
   color: 'red',
+
   move: function () {
     console.log('move');
   },
