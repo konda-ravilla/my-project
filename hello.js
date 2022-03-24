@@ -8,3 +8,5 @@ let obj = {
     console.log('duplicate');
   },
 };
+
+let num = 100;
