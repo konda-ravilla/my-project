@@ -10,3 +10,5 @@ let obj = {
 };
 
 let num = 100;
+
+let name = 'prasad';
